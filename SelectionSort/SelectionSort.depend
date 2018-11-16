@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1542355317 source:d:\code-blocksworkspace\selectionsort\main.cpp
+	<iostream>
+	"SortTestHelper.h"
+	<iostream>
+	"SortTestHelper.h"
+
+1542355360 d:\code-blocksworkspace\selectionsort\sorttesthelper.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
